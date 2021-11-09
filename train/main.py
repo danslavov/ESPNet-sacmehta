@@ -1,5 +1,3 @@
-# proba
-
 import loadData as ld
 import os
 import torch
