@@ -1,0 +1,2 @@
+Parameters: 349449
+Epoch	Loss(Tr)	Loss(val)	mIOU (tr)	mIOU (val	
